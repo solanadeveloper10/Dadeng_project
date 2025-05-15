@@ -1,0 +1,102 @@
+﻿@import url('css');
+@import url('css-1');
+
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+	font-weight: 400;
+	font-size: 32px;
+}
+
+.mainChar {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 16%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    z-index: 999;
+}
+
+.mainChar img {
+    width: 100%;
+}
+
+.mainChar p {
+    text-align: center;
+	font-size: 32px;
+	font-weight: 800;
+    color: transparent;
+    margin: 0;
+    padding: 0;
+}
+
+#smackme {
+    position: fixed;
+    top: 4%;
+    left: 36%;
+    transform: rotate(45deg);
+    transform: translate(-50%, -50%);
+    width: 16%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    z-index: 999;
+}
+
+.mainNav {
+    position: fixed;
+    bottom: 0%;
+    left: 56%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 0;
+    border: none;
+    background-color: transparent;
+    z-index: 999;
+}
+
+.mainNav a {
+    float: left;
+    text-align: center;
+    width: 20%;
+    margin: 0 1% 0 1%;
+    padding: 4px;
+    color: transparent;
+    background-color: transparent;
+    border-radius: 8%;
+    font-size: 80%;
+    text-decoration: none;
+}
+
+@media (max-width: 991px) { 
+    body {
+        font-size: 16px;
+    }
+
+    .mainNav {
+        left: 52%;
+    }
+
+    .mainNav a {
+        font-size: 56%;
+    }
+
+    .mainChar {
+        width: 48%;
+    }
+
+    #smackme {
+        top: 20%;
+        left: 20%;
+        width: 40%;
+    }
+}

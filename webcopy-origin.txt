@@ -1,0 +1,132 @@
+Uri: https://dddengsol.com/
+File Name: C:\Downloaded Web Sites\dddengsol.com\index.htm
+Content Type: text/html
+
+Uri: https://dddengsol.com/dddengmusic.mp3
+File Name: C:\Downloaded Web Sites\dddengsol.com\dddengmusic.mp3
+Content Type: audio/mpeg
+
+Uri: https://dddengsol.com/Hippo1280.gif
+File Name: C:\Downloaded Web Sites\dddengsol.com\Hippo1280.gif
+Content Type: image/gif
+
+Uri: https://dddengsol.com/smack.gif
+File Name: C:\Downloaded Web Sites\dddengsol.com\smack.gif
+Content Type: image/gif
+
+Uri: https://dddengsol.com/style.css
+File Name: C:\Downloaded Web Sites\dddengsol.com\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i&subset=latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\dddengsol.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese
+File Name: C:\Downloaded Web Sites\dddengsol.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG00900e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG00900e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z00e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG03Z00e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz0e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG05Fz0e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG089z0e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG089z0e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF00e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG0xF00e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0xFz0e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG0xFz0e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aujp_0qiz-afTfcIyoiGtm2P0wG0zh00e0.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aujp_0qiz-afTfcIyoiGtm2P0wG0zh00e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl3kw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFkQl3kw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFkQl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlnl3kw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFlnl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlOkHkw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFlOkHkw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFlOl3kw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFlOl3kw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkHkw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkHkw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkHkw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\muli\v29\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkHkw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOiCnqEu92Fr1Mu51QrIzc.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOiCnqEu92Fr1Mu51QrIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51S7ABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TjARc9.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TjARc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TLBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOjCnqEu92Fr1Mu51TzBhc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1MmgWxP.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOkCnqEu92Fr1MmgWxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOkCnqEu92Fr1Mu52xP.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOkCnqEu92Fr1Mu52xP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9vAw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOlCnqEu92Fr1MmEU9vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmSU5vAw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOlCnqEu92Fr1MmSU5vAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmWUlvAw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOlCnqEu92Fr1MmWUlvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmYUtvAw.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOlCnqEu92Fr1MmYUtvAw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Me5Q.ttf
+File Name: C:\Downloaded Web Sites\dddengsol.com\s\roboto\v32\KFOmCnqEu92Fr1Me5Q.ttf
+Content Type: font/ttf
+
